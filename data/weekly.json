@@ -1,11 +1,11 @@
 {
  "series": {
   "GTA RP": {
-   "episode": 2,
-   "last": "2026-11-08"
+   "episode": 3,
+   "last": "2026-11-15"
   }
  },
- "last_made": "2026-11-08T21:18:38.034575+00:00",
+ "last_made": "2026-11-15T21:53:13.641695+00:00",
  "episodes": [
   {
    "series": "GTA RP",
@@ -13,7 +13,8 @@
    "title": "GTA RP MOST VIEWED Twitch Clips of The Week! #1",
    "made": "2026-11-01T18:08:00+00:00",
    "asset": "weekly_gtarp_1.mp4",
-   "clips": []
+   "clips": [],
+   "deleted": true
   },
   {
    "series": "GTA RP",
@@ -99,6 +100,105 @@
      "name": "Burn",
      "title": "The Outcome of Frank and Carmella's Wedding",
      "views": 4470
+    }
+   ]
+  },
+  {
+   "series": "GTA RP",
+   "episode": 3,
+   "title": "GTA RP MOST VIEWED Twitch Clips of The Week! #3",
+   "made": "2026-11-15T21:53:13.641695+00:00",
+   "asset": "weekly_gtarp_3.mp4",
+   "clips": [
+    {
+     "rank": 1,
+     "name": "vanillamace",
+     "title": "BYE LIZ",
+     "views": 15297
+    },
+    {
+     "rank": 2,
+     "name": "xQc",
+     "title": "Splat",
+     "views": 9175
+    },
+    {
+     "rank": 3,
+     "name": "Harmless",
+     "title": "Magnus Failure Ridealong",
+     "views": 9174
+    },
+    {
+     "rank": 4,
+     "name": "Crystalst",
+     "title": "Tony (AnthonyZ) jukes cops at white garage",
+     "views": 7771
+    },
+    {
+     "rank": 5,
+     "name": "Garek",
+     "title": "First Weed Strain",
+     "views": 7068
+    },
+    {
+     "rank": 6,
+     "name": "johnnyoztv",
+     "title": "not on my tik tok",
+     "views": 6654
+    },
+    {
+     "rank": 7,
+     "name": "Garek",
+     "title": "H1 comes in hot",
+     "views": 6414
+    },
+    {
+     "rank": 8,
+     "name": "Pengwin",
+     "title": "THEY'VE DONE IT",
+     "views": 6329
+    },
+    {
+     "rank": 9,
+     "name": "Deansocool",
+     "title": "Shiesty fat fingering",
+     "views": 6309
+    },
+    {
+     "rank": 10,
+     "name": "KaiCenat",
+     "title": "\u0433\u0434\u0435 \u0436\u0440\u0430\u0447\u043a\u0430",
+     "views": 6169
+    },
+    {
+     "rank": 11,
+     "name": "xQc",
+     "title": "Raia the Brick Boi",
+     "views": 5915
+    },
+    {
+     "rank": 12,
+     "name": "liilsoulliil",
+     "title": "Highlight",
+     "views": 5684
+    },
+    {
+     "rank": 13,
+     "name": "ladydimaalt",
+     "title": "Clowns attack the Italians",
+     "views": 4172
+    },
+    {
+     "rank": 14,
+     "name": "Nakkida",
+     "title": "hearing about Hazel and Ray",
+     "views": 4021
+    },
+    {
+     "rank": 15,
+     "name": "IndoorScream",
+     "title": "tp KEKW",
+     "views": 3565
     }
    ]
   }
